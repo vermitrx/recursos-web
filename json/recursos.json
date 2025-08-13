@@ -1,0 +1,76 @@
+[
+    {
+        "name": "logo.svg",
+        "folder": "logos",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/logos/logo.svg"
+    },
+    {
+        "name": "logo-512.png",
+        "folder": "logos",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/logos/logo-512.png"
+    },
+    {
+        "name": "logo-1024.png",
+        "folder": "logos",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/logos/logo-1024.png"
+    },
+    
+    {
+        "name": "favicon-32.png",
+        "folder": "favicons",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/favicons/favicon-32.png"
+    },
+    {
+        "name": "favicon-40.png",
+        "folder": "favicons",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/favicons/favicon-40.png"
+    },
+    {
+        "name": "favicon-180.png",
+        "folder": "favicons",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/favicons/favicon-180.png"
+    },
+    {
+        "name": "favicon-192.png",
+        "folder": "favicons",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/favicons/favicon-192.png"
+    },
+    {
+        "name": "favicon-512.png",
+        "folder": "favicons",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/favicons/favicon-512.png"
+    },
+    {
+        "name": "favicon.ico",
+        "folder": "favicons",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/favicons/favicon.ico"
+    },{
+        "name": "favicon.svg",
+        "folder": "favicons",
+        "type": "image",
+        "url": "https://vermitrx.github.io/recursos-web/favicons/favicon.svg"
+    },
+    
+    {
+        "name": "Roboto-Regular.woff2",
+        "folder": "fonts",
+        "type": "font",
+        "url": "https://vermitrx.github.io/recursos-web/fonts/roboto-regular.woff2"
+    },
+    {
+        "name": "manual.pdf",
+        "folder": "otros",
+        "type": "other",
+        "url": "https://vermitrx.github.io/recursos-web/otros/manual.pdf"
+    }
+]
+
