@@ -1,1 +1,41 @@
 .DS_Store
+# ===============================
+# Archivos temporales y del sistema
+# ===============================
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# ===============================
+# Archivos comprimidos y binarios
+# ===============================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# ===============================
+# Archivos de diseño (fuera del scope del CDN)
+# ===============================
+*.psd
+*.ai
+*.xcf
+*.sketch
+*.fig
+
+# ===============================
+# Archivos de editor/IDE
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# Node (por si usas algún build tool en el futuro)
+# ===============================
+node_modules/
+dist/
+
