@@ -1,3 +1,45 @@
+# ===============================
+# Archivos del sistema
+# ===============================
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# ===============================
+# Archivos comprimidos / pesados
+# ===============================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# ===============================
+# Archivos de diseño (no deben ir al repo)
+# ===============================
+*.psd
+*.ai
+*.xd
+*.fig
+*.sketch
+*.indd
+
+# ===============================
+# Carpetas de IDEs/editores
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# Node.js / Astro
+# ===============================
+node_modules/
+dist/
+.cache/
+.env
 .DS_Store
 # ===============================
 # Archivos temporales y del sistema
